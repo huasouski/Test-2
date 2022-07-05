@@ -1,0 +1,36 @@
+{
+    "name": "bitacoracoaching",
+    "version": "1.0.0",
+    "main": "app.js",
+    "scripts": {
+        "start": "nodemon app.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "alertifyjs": "^1.13.1",
+        "bcryptjs": "^2.4.3",
+        "bootstrap": "^5.1.3",
+        "cors": "^2.8.5",
+        "dotenv": "^10.0.0",
+        "ejs": "^3.1.6",
+        "express": "^4.17.1",
+        "express-session": "^1.17.2",
+        "git": "^0.1.5",
+        "jquery": "^3.6.0",
+        "mysql": "^2.18.1",
+        "nodemon": "^2.0.15",
+        "php": "^1.0.2",
+        "sweetalert2": "^11.3.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/IvLazcano/Solucion_Web.git"
+    },
+    "bugs": {
+        "url": "https://github.com/IvLazcano/Solucion_Web/issues"
+    },
+    "homepage": "https://github.com/IvLazcano/Solucion_Web#readme",
+    "description": ""
+}
